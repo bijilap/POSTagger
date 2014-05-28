@@ -6,11 +6,11 @@ A tool to perform POS tagging, that uses an Averaged Perceptron
 
 Usage
 -----
-For training
-./postrain TRAININGFILE MODEL
+For training:
+python ./postrain TRAININGFILE MODEL
 
-For tagging
-./postag MODEL >OUTPUT
+For tagging:
+python ./postag MODEL >OUTPUT
 
 
 Performance
